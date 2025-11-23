@@ -1,2 +1,12 @@
-# STOPWATCH
-Stopwatch App is a responsive web application built with HTML, CSS, and JavaScript. It lets users start, stop, and reset time tracking in a clean interface. The project highlights DOM manipulation, event handling, and responsive design, serving as a beginner-friendly showcase of web development skills.
+# ⏱️ Stopwatch App
+
+A simple and responsive stopwatch web application built with **HTML, CSS, and JavaScript**.  
+This project demonstrates core web development concepts such as DOM manipulation, event handling, and responsive design.
+
+## 🚀 Features
+- Start, Stop, and Reset functionality
+- Displays time in **HH:MM:SS** format
+- Responsive layout for desktop and mobile
+- Lightweight and beginner-friendly codebase
+
+## 📂 Project Structure
